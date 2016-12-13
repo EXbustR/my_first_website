@@ -42,7 +42,7 @@ hr {
 .container {
 	width: 100%;
 	height: 400px;
-	
+	display:none; 
 	background-size: cover;
 	background-image: url(barber.jpg);
 	background-repeat: no-repeat;

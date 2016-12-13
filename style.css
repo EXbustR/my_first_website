@@ -37,6 +37,10 @@ hr {
 
 	
 /* class */
+.animate {
+	background-color: transparent;
+	font-size: 2px;
+}
 
 
 .container {
